@@ -1,11 +1,11 @@
  
 /**
 Theme Name: astra-enfant
+Template: astra
 Theme URI: http://localhost/planty/
 Author: ouafa bounyar
 Author URI: http://localhost/planty/
 Description:  Projet planty 
-Template: astra
 Version: 4.6.3
 Requires at least: 5.3
 Tested up to: 6.4
@@ -62,3 +62,6 @@ Astra local fonts feature is based on Webfonts Loader by WordPress Themes Team (
 Licensed under MIT ( https://github.com/WPTT/webfont-loader/blob/master/LICENSE )
 
 /* Note: The CSS files are loaded from assets/css/ folder. */
+
+/* Agrandissement du logo */
+a.menu-link{ background-color: brown;}
